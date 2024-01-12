@@ -1,0 +1,23 @@
+Aurni Dutta:
+Project Manager,
+Systems Analyst,
+Computer Graphic Implementer,
+Story Writer,
+Commenting Queen,
+Tester
+
+Bodhana Sivagurunathan:
+Lead Programmer,
+Systems Analyst, 
+Computer Graphic Implementer,
+Music Implementer,
+GUI Designer,
+Mini Game Designer,
+Debugging Guru,
+Tester
+
+Mary Wekesa:
+Technical Writer, 
+GUI Designer,
+Music Implementer,
+Tester
